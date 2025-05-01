@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋, i'm Filippo
 
+- 👋 I'm a student of University of Genoa and i like working in the IT world in general
+- ⚽ I'm a football fun and i dream working in the world of football   
 <!--
 **FilippoPedulla/FilippoPedulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
